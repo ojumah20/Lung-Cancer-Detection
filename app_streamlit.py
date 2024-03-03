@@ -14,7 +14,7 @@ st.image(image_path, caption='', use_column_width=True)
 
 # Use st.file_uploader to create a file uploader widget
 uploaded_file = st.file_uploader("Please Upload your CT scan here", type=["jpg", "jpeg", "png"])
-
+#new commit
 
 # Check if a file was uploaded
 if __name__ == "__main__":
