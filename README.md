@@ -16,3 +16,4 @@ Using image preprocessing techniques based on tensorflow to detect cases of lung
 <h3>Usage</h3>
 <h3>Contributing</h3>
 <h3>Additional Information</h3>
+<h3>Limitations</h3>
