@@ -42,3 +42,6 @@ Model performance was assessed with and without image segmentation, comparing Re
 
 ### Weights Saving for Selected Deep Learning Pipeline
 After training, the best-performing model's weights were saved in H5 format for future reuse in Keras, facilitating transfer learning on additional lung cancer CT images.
+
+Project Diagram
+https://github.com/ojumah20/Lung-Cancer-Detection/blob/main/Image%2016-07-2024%20at%2018.11.jpeg
